@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 Hi 👋, I'm Chamuditha Pigera<br><br>A passionate IT Undergraduate from Sri Lanka<br><br>🔭 I’m currently studying on University of Moratuwa<br><br>🌱 I’m currently learning Spring Boot, Angular, Cucumber & Playwright<br><br>💬 Ask me about software development & automation testing<br><br>📫 How to reach me chamudithapigera98@gmail.com<br><br>📄 Know about my experiences<br><br>⚡ Fun fact funny man<br>
 
